@@ -3,7 +3,12 @@
 <h1>This is heading </h1>
 <br>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2> This is another heading and more </h2>
 =======
 <h2> This is another heading for something </h2>
+>>>>>>> main
+=======
+<h2> This is another heading and more </h2>
+<h3>H3 added</h3>
 >>>>>>> main
